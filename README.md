@@ -14,6 +14,6 @@ My first test using TortoiseGit (https://tortoisegit.org/) & Git & Git Source Co
 * http://urashita.com/archives/2394  
 
 SSH接続を用いてプッシュ  
-グローバル環境設定の関係で，Git Extensions 2.48.05が，
-bash: /dev/tty: No such device or addressというエラーで上手くいかなかった．
+グローバル環境設定の関係で，Git Extensions 2.48.05が，  
+bash: /dev/tty: No such device or addressというエラーで上手くいかなかった．  
 Syncがpushっぽい  
