@@ -17,3 +17,4 @@ SSH接続を用いてプッシュ
 グローバル環境設定の関係で，Git Extensions 2.48.05が，  
 bash: /dev/tty: No such device or addressというエラーで上手くいかなかった．  
 Syncがpushっぽい  
+ローカルにリポジトリを作ってからプッシュするのはEGitと変わらない．
