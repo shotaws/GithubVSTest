@@ -13,7 +13,7 @@ My first test using TortoiseGit (https://tortoisegit.org/) & Git & Git Source Co
 * http://urashita.com/archives/2408  
 * http://urashita.com/archives/2394  
 
-SSH接続を用いてプッシュ
+SSH接続を用いてプッシュ  
 グローバル環境設定の関係で，Git Extensionsが上手くいかなかった．  
-bash: /dev/tty: No such device or addressとかのエラー  
+bash: /dev/tty: No such device or addressのエラー  
 Syncがpushっぽい  
